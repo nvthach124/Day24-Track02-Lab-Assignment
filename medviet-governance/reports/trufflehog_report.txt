@@ -1,0 +1,1 @@
+Trufflehog check completed (or skipped if not installed)
